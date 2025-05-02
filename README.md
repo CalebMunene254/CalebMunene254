@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CalebMunene254
+- 👋 Hi, I’m Caleb Munene
 - 👀 I’m interested in  web development
-- 🌱 I’m currently learning  software engineering
+- 🌱 I’m currently A Software Engineer
 - 💞️ I’m looking to collaborate on projects  that can lead to innovative solutions, skill enhancement, and professional networking. 
 - 📫 How to reach me :email:calebmunene67@gmail.com
-- 😄 Pronouns:Software Engineer, Frontend Developer
+- 😄 Pronouns:Software Engineer, Fullstack Developer
 - ⚡ Fun fact: Hello, World!: The phrase "Hello, World!" is often the first program written by beginners learning a new programming language. It originated from the book "The C Programming Language" by Brian Kernighan and Dennis Ritchie.
 
 <!---
